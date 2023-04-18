@@ -2,4 +2,4 @@
 - 👀 I’m interested in hacking, technology, programming and all like stuffs
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on development of softwares and hacking
-- 📫 How to reach me: send an email to issacktchoua52@gmail.com
+- 📫 How to reach me: send an email to issacktchoua52@outlook.com
